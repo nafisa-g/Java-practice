@@ -1,5 +1,7 @@
 public class Yasin {
-    public static void main(String[]args){
+    public static void main(String[]args){ 
+
+        //Date Types
         int num=4;
         long l=8;
         short sh=12;
@@ -13,7 +15,31 @@ public class Yasin {
         boolean b=true;
 
 
-        System.out.println(num);
+        System.out.println(num); 
+
+
+
+      //Literal's
+      int i=10_00_00_00;
+      System.out.println(i);
+
+      int j=23;
+      System.out.println(j);
+
+      double k=12;
+      System.err.println(k);
+
+      char ch='a';
+      System.out.println(ch);
+
+        char p='a';
+        c++;
+        System.out.println(p);
+
+
+
+
+
 
     }
     
