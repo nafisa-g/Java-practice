@@ -1,3 +1,4 @@
+package Nafisa;
 public class Upload {
     public static void main(String[]args){
         //Ternary Operator

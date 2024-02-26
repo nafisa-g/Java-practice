@@ -1,3 +1,4 @@
+package Nafisa;
 public class Computer {
     public static void main(String[]args){
         //while loop

@@ -1,3 +1,4 @@
+package Nafisa;
 class computer{
     public int add(int n1, int n2,int n3){
         {

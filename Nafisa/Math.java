@@ -1,3 +1,4 @@
+package Nafisa;
 class Human{
        private  int Age;
        private String Name ;

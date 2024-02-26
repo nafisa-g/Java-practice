@@ -1,3 +1,4 @@
+package Nafisa;
 public class Basha {
     public static void main(String[] args) {
         //for loop
